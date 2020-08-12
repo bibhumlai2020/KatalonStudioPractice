@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="UserValidation" time="7.866" tests="1" failures="0" errors="0">
+   <testsuite name="UserValidation" tests="1" failures="0" errors="0" time="7.866" timestamp="2020-08-12 11:34:12" hostname="bibhu - MANAS" id="Test Suites/UserTest/UserValidation">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Manas\\git\\KatalonStudioPractice\\Reports\\20200812_113402\\UserTest\\UserValidation\\20200812_113402"/>
+         <property name="logFiles" value="C:\\Users\\Manas\\git\\KatalonStudioPractice\\Reports\\20200812_113402\\UserTest\\UserValidation\\20200812_113402\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="bibhu - MANAS"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.6.2.205"/>
+      </properties>
+      <testcase name="Test Cases/UserTC/ValidateUserDetails" time="6.482" classname="Test Cases/UserTC/ValidateUserDetails" status="PASSED">
+         <system-out><![CDATA[2020-08-12 11:34:13 - [TEST_CASE][PASSED] - Test Cases/UserTC/ValidateUserDetails: Test Cases/UserTC/ValidateUserDetails
+
+2020-08-12 11:34:15 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("USER/GetUserDetails")): Send request successfully
+
+2020-08-12 11:34:19 - [MESSAGE][INFO] - HAR: C:\Users\Manas\git\KatalonStudioPractice\Reports\20200812_113402\UserTest\UserValidation\20200812_113402\requests\main\0.har
+
+2020-08-12 11:34:19 - [MESSAGE][PASSED] - Send request successfully
+
+2020-08-12 11:34:19 - [TEST_STEP][PASSED] - verifyResponseStatusCode(response, 200): Verify response status code successfully
+
+2020-08-12 11:34:20 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2020-08-12 11:34:20 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "data.first_name", "Janet"): Verify element property value successfully
+
+2020-08-12 11:34:20 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-08-12 11:34:12 - [TEST_SUITE][PASSED] - UserValidation: Test Cases/UserTC/ValidateUserDetails]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
