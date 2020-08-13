@@ -232,3 +232,138 @@
   <nestedLevel>0</nestedLevel>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-12T22:02:46</date>
+  <millis>1597284166182</millis>
+  <sequence>96</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>511</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har5791535365641602102\\requests\\ModalContext\\1.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">42902bd6-342c-4014-bdac-edc1f405193e</property>
+</record>
+<record>
+  <date>2020-08-12T22:05:35</date>
+  <millis>1597284335740</millis>
+  <sequence>97</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>546</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har8268346422469491237\\requests\\ModalContext\\2.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">a73ceaa6-7a7f-4fab-a819-74e0596ffb0e</property>
+</record>
+<record>
+  <date>2020-08-12T22:09:22</date>
+  <millis>1597284562555</millis>
+  <sequence>98</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>586</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har7095120191261665777\\requests\\ModalContext\\3.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">0cd6b2bb-38c9-4d24-be26-1bf94118acfb</property>
+</record>
+<record>
+  <date>2020-08-12T22:30:09</date>
+  <millis>1597285809148</millis>
+  <sequence>178</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>926</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har6898619192577620763\\requests\\ModalContext\\4.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">c087298e-62e6-4150-83f6-0b512527f246</property>
+</record>
+<record>
+  <date>2020-08-12T22:37:47</date>
+  <millis>1597286267372</millis>
+  <sequence>211</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1022</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har9116583281792525020\\requests\\ModalContext\\5.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">12fc3aff-876c-4161-b3ff-2a1c76e5cd40</property>
+</record>
+<record>
+  <date>2020-08-12T22:40:48</date>
+  <millis>1597286448449</millis>
+  <sequence>212</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1054</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har2282787456819862384\\requests\\ModalContext\\6.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">86929b0a-62d3-4519-8d22-a17a08157259</property>
+</record>
+<record>
+  <date>2020-08-12T22:44:47</date>
+  <millis>1597286687373</millis>
+  <sequence>213</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1113</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har3194059933816412633\\requests\\ModalContext\\7.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">41959a0b-e15c-42d4-802a-18cd32f4fd92</property>
+</record>
+<record>
+  <date>2020-08-12T22:46:23</date>
+  <millis>1597286783242</millis>
+  <sequence>214</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1120</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har2413939362546930897\\requests\\ModalContext\\8.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">d0edab1a-4add-4918-a01c-83687d288bfc</property>
+</record>
+<record>
+  <date>2020-08-12T22:48:03</date>
+  <millis>1597286883224</millis>
+  <sequence>215</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1125</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har8051806685731267785\\requests\\ModalContext\\9.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">bc8ddc73-127c-48df-80e8-65e98a2b942c</property>
+</record>
+<record>
+  <date>2020-08-12T22:48:22</date>
+  <millis>1597286902111</millis>
+  <sequence>216</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1134</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har4858234975222891380\\requests\\ModalContext\\10.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">f5a29771-07f3-4169-a44a-41304d145264</property>
+</record>
+<record>
+  <date>2020-08-12T22:49:41</date>
+  <millis>1597286981051</millis>
+  <sequence>217</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1146</thread>
+  <message>HAR: C:\\Users\\Manas\\AppData\\Local\\Temp\\har751718954047472676\\requests\\ModalContext\\11.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">1ba6b631-63aa-4667-ba58-ab030dba8bb9</property>
+</record>
